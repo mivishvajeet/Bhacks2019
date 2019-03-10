@@ -20,8 +20,23 @@ The current system for a student to apply for a mess rebate is tedious and time 
 6. For admin dashboard go to localhost/adminLogin.php (username - iec2017029, password - 123, email - iec2017029@iiita.ac.in, bh1 and bh4 contains some data)
 7. THAT'S IT :) , IT SOLVES THE PROBLEM.
 
-## TEAM NAME - Searching for team name
-### MEMBERS - Vishvajeet dhawale, Prateek
+
+## Student Dashboard -
+
+![](https://raw.githubusercontent.com/mivishvajeet/Bhacks2019/master/bhacks2019-master/bhacks2019-master/searching%20for%20team%20name/demo%20images/student_dashboard.PNG)
+
+## Admin Dahboard -
+
+![](https://raw.githubusercontent.com/mivishvajeet/Bhacks2019/master/bhacks2019-master/bhacks2019-master/searching%20for%20team%20name/demo%20images/admin_dashboard.PNG)
+
+## Rebate -
+
+![](https://raw.githubusercontent.com/mivishvajeet/Bhacks2019/master/bhacks2019-master/bhacks2019-master/searching%20for%20team%20name/demo%20images/student_modal.PNG)
+
+
+## TEAM NAME - Searching For Team Name
+
+### MEMBERS - Vishvajeet Dhawale, Prateek
 
 #### IF any issue please feel free to ping me , i will be happy to help anytime ;)
 
