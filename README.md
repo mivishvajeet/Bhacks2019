@@ -19,5 +19,5 @@ For admin dashboard go to localhost/adminLogin.php (username - iec2017029, passw
 THAT'S IT :) , IT SOLVES THE PROBLEM.
 
  # TEAM NAME - Searching for team name
-# MEMBERS -  Vishvajeet dhawale,  Prateek
+## MEMBERS -  Vishvajeet dhawale,  Prateek
 IF any issue please feel free to ping me , i will be happy to help anytime ;)
